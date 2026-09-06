@@ -28,4 +28,5 @@ AmazeNet was designed and developed in Unity using C#.
 
 For gameplay, project details, and my other work, visit:
 **https://milan1512.itch.io/amazenet**
+
 **https://milanchandegara.com**
